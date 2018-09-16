@@ -1,16 +1,16 @@
 {
-  "name": "font-blast",
+  "name": "@gurupras/font-blast",
   "description": "Converts any icon-font (Font Awesome etc) into individual SVG files for each icon.",
   "version": "0.7.0",
   "license": "MIT",
-  "author": "eugene1g <eugene7pub@gmail.com>",
-  "homepage": "https://github.com/eugene1g/font-blast",
+  "author": "gurupras@buffalo.edu",
+  "homepage": "https://github.com/gurupras/font-blast",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eugene1g/font-blast.git"
+    "url": "https://github.com/gurupras/font-blast.git"
   },
   "bugs": {
-    "url": "https://github.com/eugene1g/font-blast/issues"
+    "url": "https://github.com/gurupras/font-blast/issues"
   },
   "main": "lib/index.js",
   "bin": {
