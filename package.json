@@ -1,7 +1,7 @@
 {
   "name": "@gurupras/font-blast",
   "description": "Converts any icon-font (Font Awesome etc) into individual SVG files for each icon.",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "license": "MIT",
   "author": "gurupras@buffalo.edu",
   "homepage": "https://github.com/gurupras/font-blast",
