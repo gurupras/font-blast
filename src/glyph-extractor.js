@@ -103,7 +103,7 @@ function extractCharsFromFont(
       name: useCharacterName,
       ref: useCharacterName || iconCode,
       path: pathData,
-      svg: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${contentWidth} ${defaultCharHeight}">
+      svg: `<svg xmlns="http://www.w3.org/2000/svg" code="${iconCode}" name="${useCharacterName}" ref="${useCharacterName || iconCode}" viewBox="0 0 ${contentWidth} ${defaultCharHeight}">
         <g transform="scale(1,-1) translate(0 -${translateOffset})">
             <path d="${pathData}"/>
         </g></svg>`
